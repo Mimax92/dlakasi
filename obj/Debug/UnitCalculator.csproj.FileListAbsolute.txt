@@ -1,0 +1,7 @@
+C:\Users\mmijas001\source\repos\UnitCalculator\bin\Debug\UnitCalculator.exe.config
+C:\Users\mmijas001\source\repos\UnitCalculator\bin\Debug\UnitCalculator.exe
+C:\Users\mmijas001\source\repos\UnitCalculator\bin\Debug\UnitCalculator.pdb
+C:\Users\mmijas001\source\repos\UnitCalculator\obj\Debug\UnitCalculator.csprojAssemblyReference.cache
+C:\Users\mmijas001\source\repos\UnitCalculator\obj\Debug\UnitCalculator.csproj.CoreCompileInputs.cache
+C:\Users\mmijas001\source\repos\UnitCalculator\obj\Debug\UnitCalculator.exe
+C:\Users\mmijas001\source\repos\UnitCalculator\obj\Debug\UnitCalculator.pdb
